@@ -11,7 +11,6 @@
 - 🧑🏻‍💻 I'm open to a new `job opportunity`.
 
 - 📄 Know about my experiences [Resume](#)
-- 
 
 ## 📩 Connect with me
 
