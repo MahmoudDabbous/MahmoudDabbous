@@ -2,13 +2,15 @@
 
 <h3 align="center">A Passionate Software Engineer</h3>
 
-:school: I'm a `Computer Science Fresh Graduate` from Faculty of Science at Alexandria University
+:school: I'm a `ITI Graduate` from Faculty of Science at Alexandria University
 
 - 🌱 I’m currently learning **Node.js**
 
 - 🧑🏻‍💻 I'm open to a new `job opportunity`.
 
 - 📄 Know about my experiences [Resume](#)
+- 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 ## 📩 Connect with me
 
