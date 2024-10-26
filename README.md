@@ -4,11 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🌱 I’m currently learning **Node.js** and **Tailwindcss**
 
-- 🧑🏻‍💻 I'm open to a new `job opportunity`.
-
-- 📄 Know about my experiences [Resume](#)
 
 ## 📩 Connect with me
 
